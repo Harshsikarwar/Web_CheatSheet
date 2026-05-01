@@ -1,0 +1,38 @@
+{
+    "0":{"option":"Getting Started",
+    "subOption":["Overview","Maximize Your Learning"]},
+
+    "1":{"option":"HTML",
+    "subOption":["Introduction", "Tags"]},
+
+    "2":{"option":"CSS",
+    "subOption":["Introduction", "Tags"]},
+
+    "3":{"option":"JavaScript",
+    "subOption":["Introduction", "Tags"]}, 
+
+    "4":{"option":"React",
+    "subOption":["Introduction", "Tags"]},
+
+    "5":{"option":"Python",
+    "subOption":[
+        "Python Overview",
+        "Installation & Environment",
+        "Basics",
+        "Operators",
+        "Control Flow",
+        "Functions",
+        "Data Structures",
+        "Modules & Packages",
+        "File I/O",
+        "Exceptions & Debugging",
+        "Object-Oriented Programming",
+        "Advanced Python",
+        "Tools & Best Practices",
+        "Common Snippets & Tips"
+        ]
+    },
+
+    "6":{"option":"Django",
+    "subOption":["Introduction", "Tags"]}
+}

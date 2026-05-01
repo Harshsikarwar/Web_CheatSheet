@@ -1,0 +1,45 @@
+.documentContainer{
+    display: flex;
+    position: absolute;
+    top: 3.5rem;
+    left: 15rem;
+    flex-direction: column;
+    padding: 1rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.docTitle{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.docSubTitle{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 10px 0px 15px 0px;
+}
+
+.docSubSubTitle{
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 10px 0px 15px 0px;
+}
+
+.docText{
+    font-size: 1rem;
+    margin: 0px;
+    font-weight: 350;
+    line-height: 30px;
+}
+
+.docContent{
+    display: flex;
+    flex-direction: column;
+}
+
+pre{
+    border-color: rgb(254, 112, 30);
+    border-width: 2px;
+    border-style: solid;
+    padding: 1rem;
+}

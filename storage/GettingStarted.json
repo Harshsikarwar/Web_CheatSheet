@@ -1,0 +1,36 @@
+{
+  "0": {
+    "title": "Getting Started",
+    "text": "Welcome!\nThis cheatsheet helps you learn faster by showing only important concepts, syntax, and usage. \nIt saves your time and works as your quick revision guide, memory booster, and coding companion. Use it while learning and building projects to stay on track."
+  },
+  "1": {
+    "subtitle": "Maximize Your Learning",
+    "content": [
+      {
+        "subsubtitle": "① Understand",
+        "text": "Go slow and focus on clarity. Try to understand instead of just reading."
+      },
+      {
+        "subsubtitle": "② Practice",
+        "text": "Write code, try examples, and experiment while learning."
+      },
+      {
+        "subsubtitle": "③ Revisit",
+        "text": "Come back again and again to improve memory and recall."
+      },
+      {
+        "subsubtitle": "④ Apply",
+        "text": "Use concepts in small projects and real problems."
+      },
+      {
+        "subsubtitle": "⑤ Focus",
+        "text": "Learn important patterns and commonly used syntax."
+      },
+      {
+        "subsubtitle": "⑥ Explore",
+        "text": "If confused, check docs, videos, or other resources."
+      }
+    ]
+  },
+  "2":{"subtitle":"Final Notes" ,"text":"Use this cheatsheet regularly to improve your speed, understanding, and confidence 🚀"}
+}
